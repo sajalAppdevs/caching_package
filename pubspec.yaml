@@ -1,7 +1,7 @@
 name: caching_package
 description: "A lightweight and efficient Flutter package for caching key-value data with optional expiration time support. Built on SharedPreferences, it provides type-safe data persistence with automatic cache invalidation."
 version: 0.0.1
-homepage:
+homepage: https://github.com/sajalAppdevs/caching_package
 
 environment:
   sdk: ^3.7.2
