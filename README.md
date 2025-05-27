@@ -13,10 +13,10 @@ A Flutter package for efficient key-value data caching with optional expiration 
 ## Demo
 
 ### Saving Data to Cache
-![Saving to Cache](caching1.jpg)
+![Saving to Cache](assets/caching1.jpg)
 
 ### Retrieving Data from Cache
-![Retrieving from Cache](caching2.jpg)
+![Retrieving from Cache](assets/caching2.jpg)
 
 ## Installation
 
